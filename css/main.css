@@ -4,3 +4,7 @@ body{
 	font-family: serif;
 	font-size: 10px;
 }
+
+table{
+	border: 1px solid;
+}
